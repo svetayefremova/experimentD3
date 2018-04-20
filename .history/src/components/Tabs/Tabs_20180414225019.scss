@@ -1,0 +1,25 @@
+.Tabs {
+  padding: 100px 50px;
+}
+
+.Tabs-nav {
+  display: flex;
+  
+  align-items: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.Tab {
+  flex-basis: 100px;
+  margin: 0 20px;
+}
+
+.Tab-link {
+  display: block;
+  border-bottom: 3px solid blue;
+  &.active {
+    border-color: red;
+  }
+}

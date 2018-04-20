@@ -1,0 +1,18 @@
+.links {
+  stroke: #000;
+  stroke-opacity: 0.2;
+}
+
+.polygons {
+  fill: none;
+  stroke: #000;
+
+  &:first-child {
+    fill: #f00;
+  }
+}
+
+.points {
+  fill: #000;
+  stroke: #fff;
+}

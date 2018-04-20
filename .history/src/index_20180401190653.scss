@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+line {
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+.linear line {
+  //shape-rendering: crispEdges;
+  stroke: #000;
+}
+.linear path.domain {
+  // fill: none;
+  stroke: black;
+}

@@ -1,0 +1,19 @@
+.Tabs {
+  padding-top: 100px;
+}
+
+.Tabs-nav {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  width: 150px;
+  margin: 0 20px;
+  padding: 0;
+}
+
+.Tab-link {
+  border-bottom: 3px solid blue;
+  &.active {
+    border-color: red;
+  }
+}
