@@ -21,5 +21,7 @@ Calculate the most used words in the paragraph
 
 <img src="https://user-images.githubusercontent.com/22913344/39038638-b18ca638-448c-11e8-9ed0-7516d4cc6072.gif" data-canonical-src="https://user-images.githubusercontent.com/22913344/39038638-b18ca638-448c-11e8-9ed0-7516d4cc6072.gif" width="50%" />
 
+<img src="https://user-images.githubusercontent.com/22913344/39075690-b208cfd8-44ff-11e8-907f-4b526a757602.gif" data-canonical-src="https://user-images.githubusercontent.com/22913344/39075690-b208cfd8-44ff-11e8-907f-4b526a757602.gif" width="50%" />
+
 
 To be continue...
