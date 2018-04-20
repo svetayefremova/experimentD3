@@ -31,7 +31,7 @@ class App extends Component {
             <Linear />
           </Tab>
           <Tab isActive={false} text="Words">
-            <Words />
+            
           </Tab>
           <Tab isActive={false} text="AdjusmentList">
             <AdjusmentList />
