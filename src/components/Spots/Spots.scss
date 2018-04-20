@@ -1,14 +1,9 @@
-.links {
-  stroke: #000;
-  stroke-opacity: 0.2;
+.Spots {
+  width: 50%;
+  max-width: 500px;
+  height: auto;
+  margin: 30px auto;
 }
-
-.polygons {
-  fill: none;
-  stroke: #000;
-}
-
-.points {
-  fill: #000;
-  stroke: #fff;
+.responsive-canvas {
+  width: 100%;
 }
